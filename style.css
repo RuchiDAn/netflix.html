@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image:url("https://www.pcworld.com/wp-content/uploads/2024/06/Netflix-Hintergrund.jpg?resize=1240%2C697&quality=50&strip=all") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main{
+    margin-top: 10px;
+    
+}
+.logo img{
+    width:250px;
+}
+.logo{
+    float: left;
+    margin-left: 15%;
+}
+.menu button{
+    font-weight: bold;
+    padding: 10px;
+    background-color: red;
+    color: white;
+    border: 1px;
+    border-radius: 9px;
+    margin-left: 10px;
+
+}
+.menu{
+    margin-right: 7%;
+    float: right;
+}
+.head{
+    color: white;
+    padding-top: 25%;
+    text-align: center;
+} 
+.head h1{
+    font-size: 55px;
+}
+.head h3{
+    font-size: 25px;
+    font-weight: 300;
+    margin-top: 20px;
+}
